@@ -1,4 +1,4 @@
-import { INCREMENT, DECREMENT } from "../Constants/constant";
+import { INCREMENT, DECREMENT } from "../constants/constant";
 // Initial state (Rule-3 Define Initial State in Reducer File)
 const initialState = {
   count: 0,
