@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/countnumber/static/js/main.393ce20d.js",
-    "index.html": "/countnumber/index.html",
-    "main.393ce20d.js.map": "/countnumber/static/js/main.393ce20d.js.map"
+    "main.js": "/counterapp/static/js/main.0fbbcbf9.js",
+    "index.html": "/counterapp/index.html",
+    "main.0fbbcbf9.js.map": "/counterapp/static/js/main.0fbbcbf9.js.map"
   },
   "entrypoints": [
-    "static/js/main.393ce20d.js"
+    "static/js/main.0fbbcbf9.js"
   ]
 }
