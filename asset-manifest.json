@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/counterapp%3E/static/js/main.0fbbcbf9.js",
+    "index.html": "/counterapp%3E/index.html",
+    "main.0fbbcbf9.js.map": "/counterapp%3E/static/js/main.0fbbcbf9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0fbbcbf9.js"
+  ]
+}
